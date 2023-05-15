@@ -2,4 +2,4 @@
  1. Linear Regression
  2. Logistic Regression
  3. Neural Network
-
+ 4. Naive Bayes
